@@ -43,6 +43,12 @@ Dedicated to securing a Cybersecurity Internship or Co-op role where I can apply
 * **Outcome:** Developed an operational risk register mapping vulnerabilities to specific CIS Controls and NIST CSF functions, producing a business-focused GRC report for non-technical stakeholders.
 * [View Repository / Documentation](https://github.com/ZenithSaw12/cloudSec-Risk-Assessment-GRC-Simulation)
 
+#### 🐧 Linux Log Analysis, Automation & SIEM Visualization
+* **Description:** Engineered an automated log ingestion and analytical pipeline to parse Linux authentication telemetry, exposing credential-abuse patterns and visualization metrics.
+* **Key Tasks:** Developed a custom Python parsing script utilizing Regular Expressions (Regex) to dynamically extract failed login events and unauthorized access attempts from raw `auth.log` files, converting unstructured data into structured outputs.
+* **Outcome:** Centralized parsed logs within **Splunk Enterprise** to build interactive tracking dashboards, reducing manual log review cycles and accelerating brute-force threat identification trends.
+* [View Repository / Documentation](https://github.com/ZenithSaw12/Linux-Log-Analysis)
+
 ---
 
 ### 📜 Certifications
