@@ -31,7 +31,7 @@ Dedicated to securing a Cybersecurity Internship or Co-op role where I can apply
 * **Outcome:** Simulated RDP brute-force attacks and automated execution chains via Atomic Red Team mapped to the MITRE ATT&CK framework; designed SPL queries to alert on malicious events (Event IDs 4624/4625).
 * [View Repository / Documentation](https://github.com/ZenithSaw12/Active-Directory-Lab)
 
-#### 🌐 Network Reconnaissance & Behavioral Perimeter Mapping (Nmap)
+#### 🌐 Network Scanning and Host Enumeration with Nmap
 * **Description:** Conducted structured network reconnaissance against public targets to map perimeter boundaries, capture protocol behaviors, and identify structural filtering layers.
 * **Key Tasks:** Executed stealth and advanced port scans utilizing deep diagnostic overrides (`--reason`) to inspect specific TCP handshake response indicators (`syn-ack`, `rst`) across active service paths.
 * **Outcome:** Tracked packet Time-to-Live (TTL) metrics to gauge hop distances and edge-proxy presence, compiling data into structured remediation documentation for infrastructure defense teams.
